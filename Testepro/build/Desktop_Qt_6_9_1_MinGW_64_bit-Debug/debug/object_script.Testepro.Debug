@@ -1,0 +1,12 @@
+debug/backend.o
+debug/janela2.o
+debug/janela3.o
+debug/janela4.o
+debug/janela5.o
+debug/main.o
+debug/mainwindow.o
+debug/moc_janela2.o
+debug/moc_janela3.o
+debug/moc_janela4.o
+debug/moc_janela5.o
+debug/moc_mainwindow.o

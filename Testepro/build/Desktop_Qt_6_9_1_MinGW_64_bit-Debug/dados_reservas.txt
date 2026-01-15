@@ -1,0 +1,13 @@
+
+=== Relatório de Reservas ===
+
+Atendente: atendente1
+Cliente: aaaa - CPF: 1111
+Local: Jericoacoara, Quarto: Solteiro
+Check-in: 27/06/2025, Diárias: 1
+Subtotal: R$200.00
+Desconto (Sem desconto): - R$0.00
+VALOR FINAL: R$200.00
+Entrada: R$66.67
+Status: Confirmada
+

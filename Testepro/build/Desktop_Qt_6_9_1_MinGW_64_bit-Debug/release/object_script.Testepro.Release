@@ -1,0 +1,12 @@
+release/backend.o
+release/janela2.o
+release/janela3.o
+release/janela4.o
+release/janela5.o
+release/main.o
+release/mainwindow.o
+release/moc_janela2.o
+release/moc_janela3.o
+release/moc_janela4.o
+release/moc_janela5.o
+release/moc_mainwindow.o
